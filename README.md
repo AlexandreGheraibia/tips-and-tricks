@@ -17,7 +17,6 @@ https://wiki.archlinux.fr/pacman
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads<br>
 https://www.microsoft.com/fr-fr/sql-server/sql-server-editions-express<br>
 https://visualstudio.microsoft.com/fr/license-terms/mlt553321/<br<
-
 <h3>merise</h3>
 https://cloud.dalibo.com/p/exports/formation/manuels/formations/dba2/dba2.handout.html#pgmodeler<br>
 https://openclassrooms.com/forum/sujet/outils-de-modelisation-de-bases-de-donnees#message-84533392<br>
