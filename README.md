@@ -22,6 +22,7 @@ https://visualstudio.microsoft.com/fr/downloads/#fusion-button-text<br>
 <h2>Sgbd</h2>
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads<br>
 https://www.microsoft.com/fr-fr/sql-server/sql-server-editions-express<br>
+https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads<br>
 
 <h3>Merise</h3>
 https://cloud.dalibo.com/p/exports/formation/manuels/formations/dba2/dba2.handout.html#pgmodeler<br>
