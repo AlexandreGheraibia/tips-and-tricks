@@ -13,5 +13,7 @@ funny linux:
 https://wiki.archlinux.fr/pacman
 
 <h1>Windows</h1><br>
-https://www.microsoft.com/fr-fr/sql-server/sql-server-editions-express
+<h2>sgbd</h2>
+https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+https://www.microsoft.com/fr-fr/sql-server/sql-server-editions-express<br>
 https://visualstudio.microsoft.com/fr/license-terms/mlt553321/
