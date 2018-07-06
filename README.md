@@ -17,7 +17,7 @@ https://wiki.archlinux.fr/pacman
 
 <h1>Windows</h1><br>
 <h3>ide</h3>
-https://visualstudio.microsoft.com/fr/license-terms/mlt553321/#fusion-button-text x-hidden-focus<br>
+https://visualstudio.microsoft.com/fr/downloads/#fusion-button-text<br>
 
 <h2>Sgbd</h2>
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads<br>
