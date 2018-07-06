@@ -1,5 +1,5 @@
 # tips-and-tricks
-<H1>intellij</H1>
+<H1>Intellij</H1>
 
 package manager:
 https://www.jetbrains.com/help/pycharm/installing-uninstalling-and-upgrading-packages.html<br>
@@ -19,11 +19,11 @@ https://wiki.archlinux.fr/pacman
 <h3>ide</h3>
 https://visualstudio.microsoft.com/fr/license-terms/mlt553321/<br>
 
-<h2>sgbd</h2>
+<h2>Sgbd</h2>
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads<br>
 https://www.microsoft.com/fr-fr/sql-server/sql-server-editions-express<br>
 
-<h3>merise</h3>
+<h3>Merise</h3>
 https://cloud.dalibo.com/p/exports/formation/manuels/formations/dba2/dba2.handout.html#pgmodeler<br>
 https://openclassrooms.com/forum/sujet/outils-de-modelisation-de-bases-de-donnees#message-84533392<br>
 
