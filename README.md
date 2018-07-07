@@ -23,7 +23,7 @@
     https://visualstudio.microsoft.com/fr/downloads/#fusion-button-text<br>
   </div>
   <div>
-    <h2>Sgbd</h2>
+    _Sgbd_
 
     <h3>outils </h3>
     https://www.enterprisedb.com/downloads/postgres-postgresql-downloads<br>
