@@ -20,8 +20,17 @@ https://wiki.archlinux.fr/pacman
 https://visualstudio.microsoft.com/fr/downloads/#fusion-button-text<br>
 
 <h2>Sgbd</h2>
+
+<h3>outils </h3>
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads<br>
+<h3>tutos </h3>
+<h3>outils </h3>
 https://www.microsoft.com/fr-fr/sql-server/sql-server-editions-express<br>
+
+<h3>tutos </h3>
+https://docs.microsoft.com/fr-fr/sql/relational-databases/tutorial-getting-started-with-the-database-engine?view=sql-server-2017<br>
+
+<h3>tutos </h3>
 https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads<br>
 
 <h3>Merise</h3>
