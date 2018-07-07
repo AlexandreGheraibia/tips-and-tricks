@@ -1,7 +1,7 @@
 # tips-and-tricks
 
 <div>
-  <DIV>
+  <div>
     <H1>Intellij</H1>
     package manager:
     https://www.jetbrains.com/help/pycharm/installing-uninstalling-and-upgrading-packages.html<br>  
@@ -21,7 +21,7 @@
     <h1>Windows</h1><br>
     <h3>ide</h3>
     https://visualstudio.microsoft.com/fr/downloads/#fusion-button-text<br>
-   </div>
+  </div>
   <div>
     <h2>Sgbd</h2>
 
