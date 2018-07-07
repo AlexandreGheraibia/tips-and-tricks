@@ -31,8 +31,8 @@
     <h3>outils </h3>
     https://www.microsoft.com/fr-fr/sql-server/sql-server-editions-express<br>
 
-    <h3>tutos </h3>
-    https://docs.microsoft.com/fr-fr/sql/relational-databases/tutorial-getting-started-with-the-database-engine?view=sql-server-2017<br>
+    <h3>tutos Sql server 2017</h3>
+    https://docs.microsoft.com/en-us/sql/ssms/tutorials/connect-query-sql-server?view=sql-server-2017<br>
 
 
     <h3>Merise</h3>
