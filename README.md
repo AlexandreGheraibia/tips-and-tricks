@@ -24,11 +24,12 @@
   </div>
   <div>
     Sgbd
-
-    <h3>outils </h3>
+    les normes
+    http://www.journaldunet.com/developpeur/tutoriel/sql/061215-sql-normalisation.shtml
+    <h3>outils pstgres</h3>
     https://www.enterprisedb.com/downloads/postgres-postgresql-downloads<br>
     <h3>tutos </h3>
-    <h3>outils </h3>
+    <h3>outils sql server</h3>
     https://www.microsoft.com/fr-fr/sql-server/sql-server-editions-express<br>
     
     <h3>tutos Sql server 2017</h3>
