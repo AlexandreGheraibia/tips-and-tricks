@@ -26,7 +26,7 @@
     Sgbd
     les normes
     http://www.journaldunet.com/developpeur/tutoriel/sql/061215-sql-normalisation.shtml
-    <h3>outils pstgres</h3>
+    <h3>outils postgres</h3>
     https://www.enterprisedb.com/downloads/postgres-postgresql-downloads<br>
     <h3>tutos </h3>
     <h3>outils sql server</h3>
