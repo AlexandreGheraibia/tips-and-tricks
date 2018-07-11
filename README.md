@@ -23,6 +23,12 @@
     https://visualstudio.microsoft.com/fr/downloads/#fusion-button-text<br>
   </div>
   <div>
+      c# ado ms https://docs.microsoft.com/fr-fr/ef/core/get-started/aspnetcore/new-db<br>
+  
+      c# ado github <br>
+        https://github.com/aspnet/EntityFramework.Docs/tree/master/samples/core/GetStarted/AspNetCore/EFGetStarted.AspNetCore.NewDb
+  </div>
+  <div>
     Sgbd
     les normes
     http://www.journaldunet.com/developpeur/tutoriel/sql/061215-sql-normalisation.shtml
