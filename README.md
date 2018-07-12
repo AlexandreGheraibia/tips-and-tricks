@@ -3,10 +3,10 @@
 <div>
   <div>
     <H1>Github </H1>
-    utiliser la console dans intellij
-    http://blog.codeleak.pl/2014/02/git-bash-in-intellij-idea-13-on-windows.html
-    how to remove a bad commit
-    https://samwize.com/2014/01/15/how-to-remove-a-commit-that-is-already-pushed-to-github/
+    utiliser la console dans intellij<br>
+    http://blog.codeleak.pl/2014/02/git-bash-in-intellij-idea-13-on-windows.html<br>
+    how to remove a bad commit<br>
+    https://samwize.com/2014/01/15/how-to-remove-a-commit-that-is-already-pushed-to-github/<br>
    </div>
   <div>
     <H1>Intellij</H1>
