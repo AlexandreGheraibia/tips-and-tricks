@@ -25,7 +25,7 @@
     funny linux:
     https://wiki.archlinux.fr/pacman
     <h1>Windows</h1><br>
-    <h3>ide</h3>
+    <h3>Ide</h3>
     https://visualstudio.microsoft.com/fr/downloads/#fusion-button-text<br>
   </div>
   <div>
