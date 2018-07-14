@@ -4,10 +4,7 @@
 <div>
 
   <div>
-  * Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+
     <H1>Github </H1>
     utiliser la console dans intellij<br>
     http://blog.codeleak.pl/2014/02/git-bash-in-intellij-idea-13-on-windows.html<br>
