@@ -42,7 +42,7 @@
     <h3>tutos </h3>
     <h3>outils sql server</h3>
     https://www.microsoft.com/fr-fr/sql-server/sql-server-editions-express<br>
-    tuto entity framework
+    tuto entity framework<br>
     https://www.youtube.com/watch?v=kp5I4r6RHrQ<br>
     <h3>tutos Sql server 2017</h3>
     https://www.quackit.com/sql_servera/sql_server_2016/tutorial/create_a_table_in_sql_server_2016.cfm
