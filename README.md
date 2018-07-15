@@ -11,7 +11,7 @@
      node -v<br>
      npm -v<br>
      node hello.js<br>
-     <a href="https://raw.githubusercontent.com/AlexandreGheraibia/tips-and-tricks/dotnet/version.ps1">version</a>
+     <a href="https://raw.githubusercontent.com/AlexandreGheraibia/tips-and-tricks/dotnet/version.ps1"                                       download="version.ps1">version</a>
   </div>
    <div>
       <h2>dotenet</h2>
