@@ -5,12 +5,6 @@
    <H1>dotnet spacework settings</H1>
   <div>
      <H2>npm</H2>
-     #install node<br>
-     #http://blog.teamtreehouse.com/install-node-js-npm-windows<br>
-     #node command version :<br>
-     node -v<br>
-     npm -v<br>
-     node hello.js<br>
      <a href="https://raw.githubusercontent.com/AlexandreGheraibia/tips-and-tricks/dotnet/version.ps1">
         version
      </a>
