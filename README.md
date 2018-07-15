@@ -24,7 +24,7 @@
       #create packges dotnet:<br>
       dotnet restore<br>
       npm install<br>
-      #launch visual studio
+      #launch visual studio<br>
       start myProject.csproj
    </div>
 
