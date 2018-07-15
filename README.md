@@ -11,21 +11,7 @@
   </div>
    <div>
       <h2>dotenet</h2>
-      #template command:<br>
-      install templates<br>
-      dotnet new --install Micrsoft.AspNetCore.SpaTemplates::*<br>
-      #diplay templates list:<br>
-      dotnet new -l<br>
-      #create a projet command line 
-      mkdir myProject
-      cd myProject
-      #create a angular application:<br>
-      dotnet new angular<br>
-      #create packges dotnet:<br>
-      dotnet restore<br>
-      npm install<br>
-      #launch visual studio<br>
-      start myProject.csproj
+     <a href="https://github.com/AlexandreGheraibia/tips-and-tricks/blob/dotnet/createAP.ps1">create a dotnet project</a>
    </div>
 
  
