@@ -1,4 +1,4 @@
-# tips-and-tricksz
+# tips-and-tricks
 
 
 <div>
@@ -11,7 +11,7 @@
   </div>
    <div>
       <h2>dotenet</h2>
-     <a href="https://github.com/AlexandreGheraibia/tips-and-tricks/blob/dotnet/createAP.ps1">create a dotnet project</a>
+     <a href="https://raw.githubusercontent.com/AlexandreGheraibia/tips-and-tricks/dotnet/createAP.ps1">create a dotnet project</a>
    </div>
 
  
