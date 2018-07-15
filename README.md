@@ -5,7 +5,7 @@
    <H1>dotnet spacework settings</H1>
   <div>
      <H2>npm</H2>
-      install node<br>
+     #install node<br>
      #http://blog.teamtreehouse.com/install-node-js-npm-windows<br>
      #node command version :<br>
      node -v<br>
