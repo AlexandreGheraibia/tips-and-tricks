@@ -1,4 +1,4 @@
-# tips-and-tricks
+# tips-and-tricksz
 
 
 <div>
@@ -12,7 +12,7 @@
    <div>
       <h2>dotenet</h2>
       #template command:<br>
-      install<br>
+      install templates<br>
       dotnet new --install Micrsoft.AspNetCore.SpaTemplates::*<br>
       #diplay templates list:<br>
       dotnet new -l<br>
