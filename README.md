@@ -24,6 +24,8 @@
     <H1>Linux</H1>
     funny linux:
     https://wiki.archlinux.fr/pacman
+     <h1>Tomcat</h1>
+     <a href="https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-16-04">monter un serveur Tomcat</a>
     <h1>Windows</h1><br>
     <h3>Ide</h3>
     https://visualstudio.microsoft.com/fr/downloads/#fusion-button-text<br>
