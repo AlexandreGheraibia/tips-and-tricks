@@ -25,7 +25,7 @@
     funny linux:
     https://wiki.archlinux.fr/pacman
      <h1>Tomcat</h1>
-     <a href="https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-16-04">monter un serveurTomcat</a>
+     <a href="https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-16-04">monter un serveurTomcat</a><br>
       <a href="https://www.sky-future.net/2013/11/19/reinitialiser-le-mot-de-passe-root-dune-debian-ou-ubuntu/>root pass change</a>
     <h1>Windows</h1><br>
     <h3>Ide</h3>
